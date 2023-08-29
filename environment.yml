@@ -1,4 +1,7 @@
 name: ds
+channels:
+ - conda-forge
+ 
 dependencies:
  - matplotlib
  - numpy
